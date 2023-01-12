@@ -1,0 +1,16 @@
+body{
+background-color:powderblue;
+}
+h1{
+font-family:verdana;
+color:blue;
+font-size:300%
+}
+p{
+border :3px solid black;
+padding : 10px;
+margin: 50px;
+color:grey;
+font-family:Arial;
+font-size:400%
+}
